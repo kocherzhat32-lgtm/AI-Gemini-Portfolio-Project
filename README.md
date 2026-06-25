@@ -7,6 +7,16 @@ The project is structured into four parts, each showing a different practical us
 
 ---
 
+## 📊 Data Source
+
+The dataset used in this project comes from the official Finnish open data portal:
+
+🔗 https://avoindata.suomi.fi/data/fi/dataset/kelan-etuuksien-saajat-ja-maksetut-etuudet
+
+The dataset contains Kela benefit data for the years **2008–2026**.
+
+---
+
 ## 📁 Project Structure
 
 AI-Gemini-Portfolio-Project
