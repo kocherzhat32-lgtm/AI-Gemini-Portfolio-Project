@@ -1,0 +1,31 @@
+01_Omakanta_Reviews
+"Extract the reviews from this screenshot and turn them into a table with the following columns: date, text, and # of stars."
+
+
+02_Data_Analysis_with_Gemini
+Step 1:
+"This dataset contains Kela benefit payments for the years 2021–2024.
+Provide the total number of beneficiaries (sum of saaja_lkm) and the total amount paid (sum of maksettu_eur)."
+
+Step 2:
+"What is the total amount paid (maksettu_eur) by benefit type (etuus)?"
+
+Step 3:
+"You are a data analyst. For a national social security system like Kela, why might some benefit types have significantly higher total payments than others?"
+
+Step 4:
+"Create a bar chart showing total maksettu_eur by etuus."
+
+03_Interactive_Dashboard
+Interactive Dashboard App — Prompt
+"I want to make an interactive dashboard that allows me to explore and visualize my Kela dataset in many different ways. Please use the data I upload and build the dashboard with accurate charts, filters, and summaries. I am going to provide the data for you, so please set up the dashboard with it accurately."
+
+04_CSV_Cleaner_App
+CSV Cleaner App — Prompt
+"I want to build an app that takes a CSV file and does automatic data cleaning (detects duplicates, missing values, inconsistent formats, and outliers) to create a clean, standardized dataset that helps me prepare data for analysis faster."
+
+
+
+
+
+
