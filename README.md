@@ -130,7 +130,10 @@ It shows how AI can support and accelerate the work of a data analyst across the
 
 ---
 
-## 📬 Contact
+## 👩‍💻 Author
 
-If you want to discuss the project or my work, feel free to reach out.
+**Oksana Kocherzhat**  
+Junior Data Analyst (OAMK)  
+📍 Finland  
+🔗 LinkedIn: www.linkedin.com/in/oksana-kocherzhat-834518231
 
