@@ -9,6 +9,32 @@ The project is structured into four parts, each showing a different practical us
 
 ## 📁 Project Structure
 
+AI-Gemini-Portfolio-Project
+- 01_Omakanta_Reviews
+  - Omakanta Reviews Dataset.xlsx
+  - Omakanta_User_Reviews.pdf
+
+- 02_Data_Analysis_with_Gemini
+  - Build_with_AI_Data_Analysis_Report.docx
+  - data_2021_2024.csv
+
+- 03_Interactive_Dashboard
+  - Gemini_Data_Visualization_Report_Kela.docx
+  - Kela_Aggregated_Data.csv
+  - SQL_used_in_BigQuery.sql
+
+- 04_CSV_Cleaner_App
+  - CSV_Cleaner_App_Report_Oksana.docx
+  - Workflow_Table_CSV_Cleaner_App.docx
+  - app_link.txt
+
+- data
+  - data.zip
+
+- prompts
+  - prompts.txt
+
+- README.md
 
 ---
 
@@ -87,10 +113,6 @@ Create a simple AI application that automates repetitive data cleaning tasks.
 All prompts used across the project are stored in:
 
 /prompts/prompts.txt
-
----
-
-This file documents the exact instructions given to Gemini at each stage.
 
 ---
 
