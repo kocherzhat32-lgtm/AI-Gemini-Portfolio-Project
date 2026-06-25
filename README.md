@@ -106,7 +106,7 @@ Create a simple AI application that automates repetitive data cleaning tasks.
 - `Workflow_Table_CSV_Cleaner_App.docx`  
 - `app_link.txt`
 
-## 🔗 Live Demo — CSV Cleaner App
+**Live Demo:** 
 
 Try the application here:  
 👉 https://ai.studio/apps/194e78d2-0a2d-4128-8b8a-1fbc8e2d169b
